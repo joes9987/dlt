@@ -1,7 +1,7 @@
 ---
 title: REST API Source with dltHub AI Harness
 description: Build any REST API source with dltHub AI Harness toolkits - workflows, skills, rules, and MCP tools
-keywords: [cursor, claude, codex, llm, restapi, ai, workbench, toolkit]
+keywords: [cursor, claude, codex, llm, restapi, ai, ai harness, workbench, toolkit]
 ---
 # REST API Source with dltHub AI Harness
 

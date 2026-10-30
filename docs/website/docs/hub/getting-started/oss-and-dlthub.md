@@ -1,7 +1,7 @@
 ---
 title: dlt and dltHub
 description: A map of the dlt and dltHub ecosystem
-keywords: [dlt, dlthub, open source, source available, pricing, license, workspace, workbench, skills, ai, agent]
+keywords: [dlt, dlthub, open source, source available, pricing, license, workspace, ai harness, workbench, skills, ai, agent]
 ---
 # dlt and dltHub
 
